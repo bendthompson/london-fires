@@ -28,7 +28,7 @@ Each .xlsx file had multiple sheets. The relevant sheet for this project was she
 
 <img src="https://user-images.githubusercontent.com/97390056/168211017-8db45cce-da71-41fe-aa65-01c3c793c70a.png" width="950"/>
 
-<img src="https://user-images.githubusercontent.com/97390056/168211599-22ca7122-27dc-4ce2-ab2f-5c61adf12c66.png" height= "281"/> <img src="https://user-images.githubusercontent.com/97390056/168213305-d566ecdb-e6f5-4669-8bee-a6723a3a65f3.png" width="370"/> 
+<img src="https://user-images.githubusercontent.com/97390056/168211599-22ca7122-27dc-4ce2-ab2f-5c61adf12c66.png" height= "280"/> <img src="https://user-images.githubusercontent.com/97390056/168213305-d566ecdb-e6f5-4669-8bee-a6723a3a65f3.png" width="370"/> 
 
 <img src="https://user-images.githubusercontent.com/97390056/168212280-0ad635c4-e5ce-4006-8599-7385ae5ce6f2.png" width="900"/>
 
