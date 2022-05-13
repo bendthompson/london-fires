@@ -1,74 +1,37 @@
-# Data analysis
-- Document here the project: london_fires
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# London Fire Response Times    
+Explored the London Fire Brigades incident response times from the start of the 999 call to the first fire engine arrival across the 32 London boroughs from 2010 to 2021.
 
-Please document the project the better you can.
+🔥      Got good practice extracting, exploring, and cleaning data using Pandas
 
-# Startup the project
+🚒      Stretched myself with creating highly customised plots with Matplotlib
 
-The initial setup.
+⏱️      Learned Geopandas to handle GeoJson's and create Choropleth Map Plots
 
-Create virtualenv and install the project:
-```bash
-sudo apt-get install virtualenv python-pip python-dev
-deactivate; virtualenv ~/venv ; source ~/venv/bin/activate ;\
-    pip install pip -U; pip install -r requirements.txt
-```
+# Data Source
 
-Unittest test:
-```bash
-make clean install test
-```
+Excel files were downloaded from here:
+https://data.london.gov.uk/dataset/incident-response-times-fire-facts
 
-Check for london_fires in gitlab.com/{group}.
-If your project is not set please add it:
+Each .xlsx file had multiple sheets. The relevant sheet for this project was sheet 6.1 which had the average incident response times from the start of the 999 call to the first fire engine arrival in minutes. They were arranged by year on columns, and borough on rows. 
 
-- Create a new project on `gitlab.com/{group}/london_fires`
-- Then populate it:
+# Some skills I used/learned
 
-```bash
-##   e.g. if group is "{group}" and project_name is "london_fires"
-git remote add origin git@github.com:{group}/london_fires.git
-git push -u origin master
-git push -u origin --tags
-```
+- Creating a side-by-side bar chart in Matplotlib using custom xticks values and bar widths
+- Using different tick values and tick labels to make the scale understandable to a viewer
+- Creating Colourmap objects to have a consistent colour scheme betweeen the Geoplots and Matplotlib plots
+- Using subplots to have multiple pie charts and to create white space
+- Creating a colourbar object to communicate the Choropleth plot clearly
+- Using padding and coordinates to relocate legend and title objects
+- Making and customizing bbox objects
 
-Functionnal test with a script:
+# Data Visualisation
 
-```bash
-cd
-mkdir tmp
-cd tmp
-london_fires-run
-```
+<img src="https://user-images.githubusercontent.com/97390056/168211017-8db45cce-da71-41fe-aa65-01c3c793c70a.png" width="950"/>
 
-# Install
+<img src="https://user-images.githubusercontent.com/97390056/168211599-22ca7122-27dc-4ce2-ab2f-5c61adf12c66.png" height= "351"/> <img src="https://user-images.githubusercontent.com/97390056/168213305-d566ecdb-e6f5-4669-8bee-a6723a3a65f3.png" width="450"/> 
 
-Go to `https://github.com/{group}/london_fires` to see the project, manage issues,
-setup you ssh public key, ...
+<img src="https://user-images.githubusercontent.com/97390056/168212280-0ad635c4-e5ce-4006-8599-7385ae5ce6f2.png" width="900"/>
 
-Create a python3 virtualenv and activate it:
+<img src="https://user-images.githubusercontent.com/97390056/168215125-305672bb-ce0d-4369-98f2-be662d6ca511.png" width="445"/> <img src="https://user-images.githubusercontent.com/97390056/168215131-d6135953-d937-448b-b0a8-6da7299f5915.png" width="455"/> 
 
-```bash
-sudo apt-get install virtualenv python-pip python-dev
-deactivate; virtualenv -ppython3 ~/venv ; source ~/venv/bin/activate
-```
-
-Clone the project and install it:
-
-```bash
-git clone git@github.com:{group}/london_fires.git
-cd london_fires
-pip install -r requirements.txt
-make clean install test                # install and test
-```
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-london_fires-run
-```
+<img src="https://user-images.githubusercontent.com/97390056/168211545-3d51c64a-2f24-47a8-8dea-99f9e076b723.png" width="850"/>
