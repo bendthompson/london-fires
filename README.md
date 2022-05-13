@@ -11,6 +11,7 @@ Explored the London Fire Brigades incident response times from the start of the 
 
 Excel files were downloaded from here:
 https://data.london.gov.uk/dataset/incident-response-times-fire-facts
+
 Each .xlsx file had multiple sheets. The relevant sheet for this project was sheet 6.1 which had the average incident response times from the start of the 999 call to the first fire engine arrival in minutes. They were arranged by year on columns, and borough on rows. 
 
 # Some skills I used/learned
