@@ -7,3 +7,4 @@ scripts/
 *.csv
 **/__pycache__/
 .env
+.gitignore
