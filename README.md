@@ -1,4 +1,4 @@
-# London Fire Response Times    
+# London Fire Response Times 👨‍🚒👩‍🚒  
 Explored the London Fire Brigades incident response times from the start of the 999 call to the first fire engine arrival across the 32 London boroughs from 2010 to 2021.
 
 🔥      Got good practice extracting, exploring, and cleaning data using Pandas
@@ -28,10 +28,18 @@ Each .xlsx file had multiple sheets. The relevant sheet for this project was she
 
 <img src="https://user-images.githubusercontent.com/97390056/168211017-8db45cce-da71-41fe-aa65-01c3c793c70a.png" width="950"/>
 
-<img src="https://user-images.githubusercontent.com/97390056/168211599-22ca7122-27dc-4ce2-ab2f-5c61adf12c66.png" height= "351"/> <img src="https://user-images.githubusercontent.com/97390056/168213305-d566ecdb-e6f5-4669-8bee-a6723a3a65f3.png" width="450"/> 
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/97390056/168211599-22ca7122-27dc-4ce2-ab2f-5c61adf12c66.png" height= "280"/> <img src="https://user-images.githubusercontent.com/97390056/168213305-d566ecdb-e6f5-4669-8bee-a6723a3a65f3.png" width="370"/> 
+
+&nbsp;
 
 <img src="https://user-images.githubusercontent.com/97390056/168212280-0ad635c4-e5ce-4006-8599-7385ae5ce6f2.png" width="900"/>
 
-<img src="https://user-images.githubusercontent.com/97390056/168215125-305672bb-ce0d-4369-98f2-be662d6ca511.png" width="445"/> <img src="https://user-images.githubusercontent.com/97390056/168215131-d6135953-d937-448b-b0a8-6da7299f5915.png" width="455"/> 
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/97390056/168215125-305672bb-ce0d-4369-98f2-be662d6ca511.png" width="390"/> <img src="https://user-images.githubusercontent.com/97390056/168215131-d6135953-d937-448b-b0a8-6da7299f5915.png" width="410"/> 
+
+&nbsp;
 
 <img src="https://user-images.githubusercontent.com/97390056/168211545-3d51c64a-2f24-47a8-8dea-99f9e076b723.png" width="850"/>
